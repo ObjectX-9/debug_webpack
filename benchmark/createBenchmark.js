@@ -25,6 +25,6 @@ webpack(
 		]
 	},
 	(err, stats) => {
-		console.log(stats.toString());
+		// console.log(stats.toString());
 	}
 );

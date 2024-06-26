@@ -18,6 +18,6 @@ complier.run((err, stats) => {
     console.error(err)
   } else {
     // stats webpack内置的编译信息对象
-    console.log(stats)
+    // console.log(stats)
   }
 })

@@ -12,7 +12,7 @@ complier.run((err, stats) => {
     console.error(err);
   } else {
 		console.log("stats===========>");
-    console.log(stats);
+    // console.log(stats);
   }
 })
 
